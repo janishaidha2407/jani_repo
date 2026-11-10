@@ -1,1 +1,6 @@
+
+
 JJust ignore it bro
+*.class
+*.log
+*.tmp
